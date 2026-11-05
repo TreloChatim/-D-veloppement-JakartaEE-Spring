@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security" lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+<div class="card">
+    <h1>Espace administrateur</h1>
+    <p>Connecté en tant que <strong sec:authentication="name">admin</strong> (ROLE_ADMIN).</p>
+    <a class="btn" th:href="@{/home}">Accueil</a>
+</div>
+</body>
+</html>

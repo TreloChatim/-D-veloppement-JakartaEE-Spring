@@ -1,0 +1,9 @@
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\config\DatabaseInitializer.java
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\config\SecurityConfig.java
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\entities\Role.java
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\entities\User.java
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\repositories\RoleRepository.java
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\repositories\UserRepository.java
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\services\CustomUserDetailsService.java
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\SpringSecurityJpaApplication.java
+C:\Users\kbend\OneDrive\Documents\Dev tp10\spring-security-jpa\src\main\java\ma\fstg\security\web\PageController.java
